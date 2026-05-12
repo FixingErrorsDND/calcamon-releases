@@ -1,6 +1,6 @@
 # CalcaMon
 
-VectorMon is a math study RPG created by Isaiah Blair.
+CalcaMon is a math study RPG created by Isaiah Blair.
 
 ## Download
 
